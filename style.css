@@ -1,0 +1,21 @@
+body {
+  background-color:grey
+}
+
+
+.green {
+  color: #004225
+}
+
+img {
+  width: 75%;
+  height: auto;
+}
+
+.red {
+  color: #FF0000
+}
+
+.blue {
+  color:#15B0F0
+}
